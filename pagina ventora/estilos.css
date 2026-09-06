@@ -1,0 +1,14 @@
+body{
+    background-image: url("../imagenes a usar/imagen de fondo login.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.tarjeta{
+    background-image: url("../imagenes a usar/imagen tarjeta login.jpg");
+    color: white;
+    justify-content: center;
+    margin-left: 170px;
+}
